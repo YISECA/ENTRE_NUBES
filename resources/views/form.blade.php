@@ -94,7 +94,7 @@
 			     <input required type="text" class="form-control" id="eps" name="eps" onkeyup="javascript:this.value=this.value.toUpperCase();" >
        </div>
 
-    <div class="col-xs-6"><input type="hidden" name="fecha_caminata" id="fecha_caminata" value="2017-09-03"></div>
+    <div class="col-xs-6"><input type="hidden" name="fecha_caminata" id="fecha_caminata" value="2017-09-10"></div>
    </div>
 
 		</fieldset>
